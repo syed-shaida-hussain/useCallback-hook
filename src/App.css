@@ -1,0 +1,22 @@
+body,*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App{
+  height : 100vh;
+  display : flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.input{
+  padding: 0.5rem 1rem;
+}
+
+.btn{
+  padding: 0.5rem 1rem;
+}
